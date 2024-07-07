@@ -1,14 +1,14 @@
 {
   "name": "statuses-es",
   "description": "HTTP status utility",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "contributors": [
     "Evgenii Troinov <troinof@gmail.com>",
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
     "Jonathan Ong <me@jongleberry.com> (http://jongleberry.com)"
   ],
   "repository": {
-    "url": "https://github.com/etroynov/statuses-es.git"
+    "url": "git+https://github.com/etroynov/statuses-es.git"
   },
   "license": "MIT",
   "keywords": [
