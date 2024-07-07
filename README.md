@@ -1,5 +1,7 @@
 # statuses
 
+ESM build of [statuses](https://www.npmjs.com/package/statuses) with bundled types.
+
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-url]
 [![Node.js Version][node-version-image]][node-version-url]
