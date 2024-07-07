@@ -25,16 +25,42 @@ This is a [Node.js](https://nodejs.org/en/) module available through the
 [npm registry](https://www.npmjs.com/). Installation is done using the
 [`npm install` command](https://docs.npmjs.com/getting-started/installing-npm-packages-locally):
 
+
 ```sh
-$ npm install statuses
+# ✨ Auto-detect
+npx nypm install statuses-es
+
+# npm
+npm install statuses-es
+
+# yarn
+yarn add statuses-es
+
+# pnpm
+pnpm install statuses-es
+
+# bun
+bun install statuses-es
 ```
 
 ## API
 
-<!-- eslint-disable no-unused-vars -->
+**ESM** (Node.js, Bun)
 
 ```js
-var status = require('statuses')
+import status from "statuses-es";
+```
+
+**CommonJS** (Legacy Node.js)
+
+```js
+const status = require("statuses-es");
+```
+
+**CDN** (Deno, Bun and Browsers)
+
+```js
+import status from "https://esm.sh/statuses-es";
 ```
 
 ### status(code)
@@ -42,7 +68,6 @@ var status = require('statuses')
 Returns the status message string for a known HTTP status code. The code
 may be a number or a string. An error is thrown for an unknown status code.
 
-<!-- eslint-disable no-undef -->
 
 ```js
 status(403) // => 'Forbidden'

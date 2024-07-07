@@ -1,7 +1,7 @@
 {
   "name": "statuses-es",
   "description": "HTTP status utility",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "contributors": [
     "Evgenii Troinov <troinof@gmail.com>",
     "Douglas Christopher Wilson <doug@somethingdoug.com>",
