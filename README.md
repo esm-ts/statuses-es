@@ -2,6 +2,8 @@
 
 ESM build of [statuses](https://www.npmjs.com/package/statuses) with bundled types.
 
+**IMPORTANT**: During development tests are conducted on the latest node.js (LST) version it does not mean that this library works only with it, in theory it will work on earlier versions but to check it is not meaningful because the use of versions in production that do not get the security patch is not a good practice.
+
 [![NPM Version][npm-version-image]][npm-url]
 [![NPM Downloads][npm-downloads-image]][npm-url]
 [![Node.js Version][node-version-image]][node-version-url]
