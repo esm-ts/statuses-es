@@ -1,4 +1,4 @@
-# statuses
+# statuses-es
 
 ESM build of [statuses](https://www.npmjs.com/package/statuses) with bundled types.
 
