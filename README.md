@@ -155,14 +155,14 @@ status.retry[503] // => true
 
 [MIT](LICENSE)
 
-[ci-image]: https://badgen.net/github/checks/jshttp/statuses/master?label=ci
-[ci-url]: https://github.com/jshttp/statuses/actions?query=workflow%3Aci
-[coveralls-image]: https://badgen.net/coveralls/c/github/jshttp/statuses/master
+[ci-image]: https://badgen.net/github/checks/esm-ts/statuses-es/master?label=ci
+[ci-url]: https://github.com/esm-ts/statuses-es/actions?query=workflow%3Aci
+[coveralls-image]: https://badgen.net/coveralls/c/github/esm-ts/statuses-es/master
 [coveralls-url]: https://coveralls.io/r/jshttp/statuses?branch=master
-[node-version-image]: https://badgen.net/npm/node/statuses
+[node-version-image]: https://badgen.net/npm/node/statuses-es
 [node-version-url]: https://nodejs.org/en/download
-[npm-downloads-image]: https://badgen.net/npm/dm/statuses
-[npm-url]: https://npmjs.org/package/statuses
-[npm-version-image]: https://badgen.net/npm/v/statuses
-[ossf-scorecard-badge]: https://api.securityscorecards.dev/projects/github.com/jshttp/statuses/badge
-[ossf-scorecard-visualizer]: https://kooltheba.github.io/openssf-scorecard-api-visualizer/#/projects/github.com/jshttp/statuses
+[npm-downloads-image]: https://badgen.net/npm/dm/statuses-es
+[npm-url]: https://npmjs.org/package/statuses-es
+[npm-version-image]: https://badgen.net/npm/v/statuses-es
+[ossf-scorecard-badge]: https://api.securityscorecards.dev/projects/github.com/esm-ts/statuses-es/badge
+[ossf-scorecard-visualizer]: https://kooltheba.github.io/openssf-scorecard-api-visualizer/#/projects/github.com/esm-ts/statuses-es
